@@ -1,11 +1,11 @@
 | 🎓TITLES | 💡OFIMATIC |
 | --- | --- |
-| [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹]Blender|
-| [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵]FL Studio|
-| [🎮] Video Game Development and Virtual Reality specialist (DVRV)| [📄]Office/Libre Office|
-| [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)| [📹]Sony Vegas|
-| |[📚]Adobe(PDF, Photoshop, After Effects, Illustrator,...)|
-| |[🎨]Procreate|
+| [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender|
+| [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵] FL Studio|
+| [🎮] Video Game Development and Virtual Reality specialist (DVRV)| [📄] Office/Libre Office|
+| [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)| [📹] Sony Vegas|
+| |[📚] Adobe(PDF, Photoshop, After Effects, Illustrator,...)|
+| |[🎨] Procreate|
 
 |Stats| Languages|
 | --- | --- |
