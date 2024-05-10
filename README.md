@@ -1,4 +1,4 @@
-| ###Titles | ###Ofimatic |
+| TITLES | OFIMATIC |
 | --- | --- |
 | [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹]Blender|
 | [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵]FL Studio|
