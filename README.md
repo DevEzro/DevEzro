@@ -4,11 +4,12 @@
 - [🎮] Video Game Development and Virtual Reality specialist (DVRV)
 - [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
 
-### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt) 
+|### Stats|### Languages|
+| --- | --- |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 
-### Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Ofimatic
 - [🕹]Blender
