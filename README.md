@@ -12,4 +12,4 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
 
 ### STREAMS ON TWITCH (ES)
-![Preview](https:twitch.com/DaveEzro)
+[![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
