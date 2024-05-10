@@ -4,7 +4,7 @@
 |- [👨‍💻] Multiplatform Application Development technician (DAM)|- [🎵]FL Studio|
 |- [🎮] Video Game Development and Virtual Reality specialist (DVRV)|- [📄]Office/Libre Office|
 |- [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)|- [📹]Sony Vegas|
-|- [🎨]Procreate|
+| |[🎨]Procreate|
 
 |Stats|Languages|
 | --- | --- |
