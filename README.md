@@ -1,3 +1,9 @@
+### Titles
+[🌐] Microcomputer Systems and Networks technician (SMR)
+[👨‍💻] Multiplatform Application Development technician (DAM)
+[🎮] Video Game Development and Virtual Reality specialist (DVRV)
+[🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
+
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)
 ### Languages
