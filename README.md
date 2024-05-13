@@ -1,4 +1,4 @@
-| 🎓TITLES | 💡OFIMATIC | OS |
+| 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
 | [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender| MacOS/iOS |
 | [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵] FL Studio| Linux |
