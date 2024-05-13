@@ -1,8 +1,7 @@
+<p align="center">
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
-<p align="center">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</p>
 
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
@@ -19,3 +18,5 @@
 
 ### Streams on Twitch (ES)
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
+
+</p>
