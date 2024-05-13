@@ -1,7 +1,7 @@
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
-     ╔══════════╗
-### _╠KNOWLEDGES╣_
-     ╚══════════╝
+╔══════════╗
+╠KNOWLEDGES╣
+╚══════════╝
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
 | [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender| [🍎] MacOS/iOS |
