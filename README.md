@@ -1,4 +1,4 @@
-[![DevEzro](https://svg-banners.vercel.app/api?type=origin&text1=DevEzro&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![DevEzro](https://svg-banners.vercel.app/api?type=origin&text1=DevEzro&width=100&height=50)](https://github.com/Akshay090/svg-banners)
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
 | [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender| [🍎] MacOS/iOS |
