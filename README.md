@@ -1,4 +1,4 @@
-[![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DevEzro&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+[![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
