@@ -1,4 +1,5 @@
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=800&height=100)](https://github.com/Akshay090/svg-banners)
+<img src="{[(https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]}" />
 
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
