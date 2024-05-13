@@ -1,8 +1,8 @@
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=800&height=100)](https://github.com/Akshay090/svg-banners)
 
-| 🎓TITLES | 💡OFIMATIC | 💻OS |
-| --- | --- | --- |
-| [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender| [🍎] MacOS/iOS |
+###🎓TITLES  💡OFIMATIC💻OS
+
+[🌐] Microcomputer Systems and Networks technician (SMR)  [🕹] Blender| [🍎] MacOS/iOS |
 | [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵] FL Studio| [🐧] Linux |
 | [🎮] Video Game Development and Virtual Reality specialist (DVRV)| [📄] Office/Libre Office| [🟦] Windows |
 | [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)| [📹] Sony Vegas|
