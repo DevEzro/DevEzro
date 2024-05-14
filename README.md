@@ -23,5 +23,8 @@
 - ### _GAME DEV_  
 [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)
 
+- ### _PENTESTING_  
+[![Game dev](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
+
 ## _STREAMS ON TWITCH (ES)_
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
