@@ -18,10 +18,10 @@
 [![Lenguajes](https://skillicons.dev/icons?i=java,js,html,css)]
 
 - _Monitoritation_
-[![Monitorizacion]](https://skillicons.dev/icons?i=docker,jenkins)]
+[![Monitorizacion](https://skillicons.dev/icons?i=docker,jenkins)]
 
 - _Game develop_
-[![Game develop]](https://skillicons.dev/icons?i=c,unity,unreal,blender)]
+[![Game develop](https://skillicons.dev/icons?i=c,unity,unreal,blender)]
 
 ### _STREAMS ON TWITCH (ES)_
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
