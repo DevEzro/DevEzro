@@ -15,7 +15,7 @@
 
 ## _EXPERIENCE_
 - ### _STANDARD PROGRAMMING_  
-[![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet)](https://skillicons.dev)
+[![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)
 
 - ### _MONITORING_  
 [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium)](https://skillicons.dev)
