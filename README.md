@@ -1,5 +1,5 @@
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flyyt4&label=Profile%20views&color=00ffbb&style=flat" alt="DevEzro" /> </p>
 ## _KNOWLEDGES_
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
