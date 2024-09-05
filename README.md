@@ -5,7 +5,7 @@
 | 🎓TITLES | 💡OFIMATIC | 💻OS |
 | --- | --- | --- |
 | [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender| [🍎] MacOS/iOS |
-| [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵] FL Studio| [🐧] Linux |
+| [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵] FL Studio / Ableton | [🐧] Linux |
 | [🎮] Video Game Development and Virtual Reality specialist (DVRV)| [📄] Office/Libre Office| [🟦] Windows |
 | [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)| [📹] Sony Vegas|
 | |[📚] Adobe (PDF, Photoshop, After Effects, Illustrator,...)|
