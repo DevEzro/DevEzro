@@ -15,7 +15,7 @@
 ## _STATS_
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEzro\&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevEzro)
 
 ## _EXPERIENCE_
 - ### _STANDARD PROGRAMMING_  
