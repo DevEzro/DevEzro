@@ -19,7 +19,7 @@
 - ### _STANDARD PROGRAMMING_  
 [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)
 
-- ### _MONITORING_  
+- ### _AUTOMATION & MONITORING_  
 [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium)](https://skillicons.dev)
 
 - ### _GAME DEV_  
