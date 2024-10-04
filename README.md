@@ -13,20 +13,15 @@
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
 
 ### 💡OFIMATIC
-[🎵] Audio
-  - FL Studio, Ableton, Garage Band
-  - 
-[📹] Video
-  - Sony Vegas, Adobe After Efects, Clipchamp
+[🎵] Audio: FL Studio, Ableton, Garage Band
 
-[🎨] Image
-  - Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
+[📹] Video: Sony Vegas, Adobe After Efects, Clipchamp
 
-[📄] Documents
-  - Adobe PDF, Microsoft Office, Libre Office
+[🎨] Image: Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
 
-[🕹] 3D
-  - Blender, Unity
+[📄] Documents: Adobe PDF, Microsoft Office, Libre Office
+
+[🕹] 3D: Blender, Unity
 
 ### 💻OS
 [🟦] Windows
