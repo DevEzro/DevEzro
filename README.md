@@ -15,12 +15,16 @@
 ### 💡OFIMATIC
 [🎵] Audio
   - FL Studio, Ableton, Garage Band
+  - 
 [📹] Video
   - Sony Vegas, Adobe After Efects, Clipchamp
+
 [🎨] Image
   - Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
+
 [📄] Documents
   - Adobe PDF, Microsoft Office, Libre Office
+
 [🕹] 3D
   - Blender, Unity
 
