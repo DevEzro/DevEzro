@@ -3,14 +3,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" /> </p>
 
 ## _KNOWLEDGES_
-| 🎓TITLES | 💡OFIMATIC | 💻OS |
-| --- | --- | --- |
-| [🌐] Microcomputer Systems and Networks technician (SMR)| [🕹] Blender| [🍎] MacOS/iOS |
-| [👨‍💻] Multiplatform Application Development technician (DAM)| [🎵] FL Studio / Ableton | [🐧] Linux |
-| [🎮] Video Game Development and Virtual Reality specialist (DVRV)| [📄] Office/Libre Office| [🟦] Windows |
-| [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)| [📹] Sony Vegas|
-| |[📚] Adobe (PDF, Photoshop, After Effects, Illustrator,...)|
-| |[🎨] Procreate|
+### 🎓TITLES
+[🌐] Microcomputer Systems and Networks technician (SMR)
+[👨‍💻] Multiplatform Application Development technician (DAM)
+[🎮] Video Game Development and Virtual Reality specialist (DVRV)
+[🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
+
+### 💡OFIMATIC
+[🎵] Audio
+  - FL Studio, Ableton, Garage Band
+[📹] Video
+  - Sony Vegas, Adobe After Efects, Clipchamp
+[🎨] Image
+  - Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
+[📄] Documents
+  - Adobe PDF, Microsoft Office, Libre Office
+[🕹] 3D
+  - Blender, Unity
+
+### 💻OS
+[🟦] Windows
+[🐧] Linux
+[🍎] MacOS/iOS
 
 ## _STATS_
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
