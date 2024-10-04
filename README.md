@@ -12,7 +12,7 @@
 
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
 
-### 💡 _OFIMATIC_
+## 💡 _OFIMATIC_
 [🎵] Audio: FL Studio, Ableton, Garage Band
 
 [📹] Video: Sony Vegas, Adobe After Efects, Clipchamp
@@ -23,7 +23,7 @@
 
 [🕹] 3D: Blender, Unity
 
-### 💻 _OS_
+## 💻 _OS_
 [🟦] Windows
 
 [🐧] Linux
