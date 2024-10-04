@@ -2,8 +2,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=devezro&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" /> </p>
 
-## _KNOWLEDGES_
-### 🎓TITLES
+# _KNOWLEDGES_
+## _🎓TITLES_
 [🌐] Microcomputer Systems and Networks technician (SMR)
 
 [👨‍💻] Multiplatform Application Development technician (DAM)
@@ -12,7 +12,7 @@
 
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
 
-### 💡OFIMATIC
+### _💡OFIMATIC_
 [🎵] Audio: FL Studio, Ableton, Garage Band
 
 [📹] Video: Sony Vegas, Adobe After Efects, Clipchamp
@@ -23,7 +23,7 @@
 
 [🕹] 3D: Blender, Unity
 
-### 💻OS
+### _💻OS_
 [🟦] Windows
 
 [🐧] Linux
