@@ -7,6 +7,7 @@
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
 
+
 # _KNOWLEDGES_
 ## 🎓 _TITLES_
 [🌐] Microcomputer Systems and Networks technician (**SMR**)
@@ -16,6 +17,15 @@
 [🎮] Video Game Development and Virtual Reality specialist (**DVRV**)
 
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (**CETIC**)
+
+
+## 💻 _OS_
+[🟦] Windows
+
+[🐧] Linux
+
+[🍎] MacOS/iOS
+
 
 ## 💡 _OFIMATIC_
 **[🎵] Audio**: FL Studio, Ableton, Garage Band
@@ -28,12 +38,6 @@
 
 **[🕹] 3D**: Blender, Unity
 
-## 💻 _OS_
-[🟦] Windows
-
-[🐧] Linux
-
-[🍎] MacOS/iOS
 
 ## _STATS_
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
