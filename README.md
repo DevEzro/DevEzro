@@ -4,24 +4,24 @@
 
 # _KNOWLEDGES_
 ## 🎓 _TITLES_
-[🌐] Microcomputer Systems and Networks technician (SMR)
+[🌐] Microcomputer Systems and Networks technician (**SMR**)
 
-[👨‍💻] Multiplatform Application Development technician (DAM)
+[👨‍💻] Multiplatform Application Development technician (**DAM**)
 
-[🎮] Video Game Development and Virtual Reality specialist (DVRV)
+[🎮] Video Game Development and Virtual Reality specialist (**DVRV**)
 
-[🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
+[🕵️‍♂️] Cybersecurity in ICT Environments specialist (**CETIC**)
 
 ## 💡 _OFIMATIC_
-[🎵] Audio: FL Studio, Ableton, Garage Band
+**[🎵] Audio**: FL Studio, Ableton, Garage Band
 
-[📹] Video: Sony Vegas, Adobe After Efects, Clipchamp
+**[📹] Video**: Sony Vegas, Adobe After Efects, Clipchamp
 
-[🎨] Image: Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
+**[🎨] Image**: Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
 
-[📄] Documents: Adobe PDF, Microsoft Office, Libre Office
+**[📄] Documents**: Adobe PDF, Microsoft Office, Libre Office
 
-[🕹] 3D: Blender, Unity
+**[🕹] 3D**: Blender, Unity
 
 ## 💻 _OS_
 [🟦] Windows
