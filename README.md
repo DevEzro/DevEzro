@@ -5,8 +5,11 @@
 ## _KNOWLEDGES_
 ### 🎓TITLES
 [🌐] Microcomputer Systems and Networks technician (SMR)
+
 [👨‍💻] Multiplatform Application Development technician (DAM)
+
 [🎮] Video Game Development and Virtual Reality specialist (DVRV)
+
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
 
 ### 💡OFIMATIC
