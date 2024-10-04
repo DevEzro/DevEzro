@@ -33,7 +33,7 @@
 ## _STATS_
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## _EXPERIENCE_
+<p style="font-size: 24px; font-weight: bold;">EXPERIENCE</p>
 | STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | PENTESTING |
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
