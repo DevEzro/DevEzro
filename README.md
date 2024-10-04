@@ -22,7 +22,7 @@
 ## 💻 _OS_
 [🟦] Windows
 
-[🐧] Linux
+[🐧] Linux/Android
 
 [🍎] MacOS/iOS
 
