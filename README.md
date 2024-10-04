@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" /> </p>
 
 # _KNOWLEDGES_
-## _🎓TITLES_
+## 🎓 _TITLES_
 [🌐] Microcomputer Systems and Networks technician (SMR)
 
 [👨‍💻] Multiplatform Application Development technician (DAM)
@@ -12,7 +12,7 @@
 
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (CETIC)
 
-### _💡OFIMATIC_
+### 💡 _OFIMATIC_
 [🎵] Audio: FL Studio, Ableton, Garage Band
 
 [📹] Video: Sony Vegas, Adobe After Efects, Clipchamp
@@ -23,7 +23,7 @@
 
 [🕹] 3D: Blender, Unity
 
-### _💻OS_
+### 💻 _OS_
 [🟦] Windows
 
 [🐧] Linux
