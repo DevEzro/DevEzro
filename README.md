@@ -26,7 +26,9 @@
 
 ### 💻OS
 [🟦] Windows
+
 [🐧] Linux
+
 [🍎] MacOS/iOS
 
 ## _STATS_
