@@ -5,7 +5,7 @@
 ## _EXPERIENCE_
 | STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | PENTESTING |
 | --- | --- | --- | --- |
-| [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
+| [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev) & more| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev) & more inside Kali system|
 
 
 # _KNOWLEDGES_
