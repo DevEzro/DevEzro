@@ -2,7 +2,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=devezro&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" /> </p>
 
-## _EXPERIENCE_
+# _EXPERIENCE_
 | STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | PENTESTING |
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
