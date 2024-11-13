@@ -8,7 +8,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=devezro&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
-<p></p>
+<br></br>
 
 <!--TRAYECTORIA: EXPERIENCIA, ESTUDIOS, CONOCIMIENTOS-->
 # _EXPERIENCE_
@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
 
-<p></p>
+<br></br>
 
 # _KNOWLEDGES_
 ## 🎓 _TITLES_
@@ -28,7 +28,7 @@
 
 [🕵️‍♂️] Cybersecurity in ICT Environments specialist (**CETIC**)
 
-<p></p>
+<br></br>
 
 ## 💻 _OS_
 [🟦] Windows
@@ -37,7 +37,7 @@
 
 [🍎] MacOS/iOS
 
-<p></p>
+<br></br>
 
 ## 💡 _OFIMATIC_
 **[🎵] Audio**: FL Studio, Ableton, Garage Band
@@ -50,7 +50,7 @@
 
 **[🕹] 3D**: Blender, Unity
 
-<p></p>
+<br></br>
 
 <!--ESTADÍSTICAS-->
 # _STATS_
