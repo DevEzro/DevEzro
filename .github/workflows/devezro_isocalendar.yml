@@ -1,8 +1,21 @@
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+name: Generate Isometric Commit Calendar
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate_calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg  # Nombre de la imagen generada
+          token: ${{ secrets.METRICS_TOKEN }}      # Token para la autenticación
+          plugin_isocalendar: 'yes'
