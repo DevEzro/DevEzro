@@ -4,7 +4,6 @@
     <p> 
         <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" />
         <img src="https://github-isocalendar.vercel.app/api?user=devezro"/>
-
     </p>
     <img src="https://github-profile-trophy.vercel.app/?username=devezro&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
