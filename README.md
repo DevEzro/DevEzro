@@ -1,10 +1,8 @@
 <!--CABECERA: LOGOTIPO, VISITAS, LOGROS-->
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
 
-# _ACHIEVEMENTS_
 <div align="center">
     <p> 
-        <img src="https://github.com/DevEzro/DevEzro/blob/main/metrics.plugin.isocalendar.svg"/>
         <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" />
     </p>
     <img src="https://github-profile-trophy.vercel.app/?username=devezro&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
