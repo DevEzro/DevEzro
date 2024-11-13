@@ -2,7 +2,6 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devezro&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" /> </p>
 
 # _EXPERIENCE_
 | STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | PENTESTING |
@@ -47,3 +46,4 @@
 
 # _STREAMS ON TWITCH (ES)_
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" /> </p>
