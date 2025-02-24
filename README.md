@@ -15,6 +15,7 @@
 | STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | PENTESTING |
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
+https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=java https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=python https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=docker https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=jenkins https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=selenium
 
 <br></br>
 
