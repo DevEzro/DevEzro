@@ -12,7 +12,7 @@
 
 <!--TRAYECTORIA: EXPERIENCIA, ESTUDIOS, CONOCIMIENTOS-->
 # _EXPERIENCE_
-| STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | PENTESTING |
+| STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | HACKING |
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
 
