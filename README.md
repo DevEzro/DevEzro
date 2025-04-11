@@ -16,7 +16,7 @@
 | --- | --- | --- | --- |
 | [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
 
-[Python](https://img.shields.io/badge/Python-00599Python?logo=c%2B%2B&logoColor=white)
+[Python](https://img.shields.io/badge/Python-00599Python?logo=python%2B%2B&logoColor=white)
 
 <br></br>
 
