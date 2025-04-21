@@ -68,8 +68,6 @@
 
 # 📺 TWITCH STREAMS (ES)
 
-Me paso por aquí a veces a jugar o trastear con código en directo:
-
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
 
 ---
