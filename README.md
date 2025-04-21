@@ -1,63 +1,84 @@
-<!--CABECERA: LOGOTIPO, VISITAS, LOGROS-->
+<!-- CABECERA: BANNER, VISITAS, TROFEOS -->
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
 
-<div align="center">
-    <p> 
-        <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" />
-    </p>
-    <img src="https://github-profile-trophy.vercel.app/?username=devezro&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
+<p align="center">
+  Producer & Dj 🎧 | Full-stack dev ⚙️ | Game Developer 🎮 | Cybersecurity Enthusiast 🕵️‍♂️
+</p>
 
-<br></br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevEzro&label=Profile%20views&color=00c9a1&style=flat" alt="DevEzro" />
+</p>
 
-<!--TRAYECTORIA: EXPERIENCIA, ESTUDIOS, CONOCIMIENTOS-->
-# _EXPERIENCE_
-| STANDARD PROGRAMMING | AUTOMATION & MONITORING | GAME DEV | HACKING |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devezro&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
+
+---
+
+<!-- HABILIDADES -->
+# 🔧 SKILLS & TOOLSET
+
+| Development | DevOps & Monitoring | Game Dev | Cybersecurity |
 | --- | --- | --- | --- |
-| [![Standard](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python)](https://skillicons.dev)| [![Monitoring](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress)](https://skillicons.dev)| [![Game dev](https://skillicons.dev/icons?i=c,unity,unreal,blender)](https://skillicons.dev)| [![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)|
+| ![Dev](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python) | ![DevOps](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress) | ![Game](https://skillicons.dev/icons?i=c,unity,unreal,blender) | ![Cyber](https://skillicons.dev/icons?i=kali) |
 
-<br></br>
+---
 
-# _KNOWLEDGES_
-## 🎓 _TITLES_
-[🌐] Microcomputer Systems and Networks technician (**SMR**)
+# 🎓 EDUCATION / FORMACIÓN
 
-[👨‍💻] Multiplatform Application Development technician (**DAM**)
+- 🌐 Técnico en Sistemas Microinformáticos y Redes (**SMR**)
+- 👨‍💻 Técnico en Desarrollo de Aplicaciones Multiplataforma (**DAM**)
+- 🎮 Especialista en Desarrollo de Videojuegos y Realidad Virtual (**DVRV**)
+- 🕵️‍♂️ Especialista en Ciberseguridad en Entornos de las TIC (**CETIC**)
 
-[🎮] Video Game Development and Virtual Reality specialist (**DVRV**)
+---
 
-[🕵️‍♂️] Cybersecurity in ICT Environments specialist (**CETIC**)
+# 💻 OPERATING SYSTEMS
 
-<br></br>
+- 🟦 Windows
+- 🐧 Linux / Android
+- 🍎 macOS / iOS
 
-## 💻 _OS_
-[🟦] Windows
+---
 
-[🐧] Linux/Android
+# 🎨 CREATIVE & OFFICE TOOLS
 
-[🍎] MacOS/iOS
+- **🎵 Audio**: FL Studio, Ableton, Garage Band  
+- **📹 Video**: Sony Vegas, Adobe After Effects, Clipchamp  
+- **🎨 Image**: Procreate, Adobe Photoshop, Illustrator, Photopea  
+- **📄 Documents**: Adobe PDF, Microsoft Office, LibreOffice  
+- **🕹 3D**: Blender, Unity  
 
-<br></br>
+---
 
-## 💡 _OFIMATIC_
-**[🎵] Audio**: FL Studio, Ableton, Garage Band
+# 🚀 FEATURED PROJECTS
 
-**[📹] Video**: Sony Vegas, Adobe After Efects, Clipchamp
+- 🎮 [**Kitxel**](https://gamejolt.com/games/devezrokitxel/793379): My first videogame, with pixel art and developed in Unity 2D.
+- 📊 [**CI-CD-SONARQUBE-TEST**](https://github.com/DevEzro/CI-CD-SONARQUBE-TEST): A full explanation for use workflow with SonarQube integrated.
+---
 
-**[🎨] Image**: Procreate, Adobe Photoshop, Adobe Ilustrator, Photopea
+# 📊 STATS
 
-**[📄] Documents**: Adobe PDF, Microsoft Office, Libre Office
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical" alt="langs" />
+</p>
 
-**[🕹] 3D**: Blender, Unity
+---
 
-<br></br>
+# 🐍 CONTRIBUTION SNAKE
 
-<!--ESTADÍSTICAS-->
-# _STATS_
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github.com/DevEzro/DevEzro/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
-<br></br>
+---
 
-<!--OTROS-->
-# _STREAMS ON TWITCH (ES)_
+# 📺 TWITCH STREAMS (ES)
+
+Me paso por aquí a veces a jugar o trastear con código en directo:
+
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
+
+---
+
