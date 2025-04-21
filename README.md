@@ -55,6 +55,8 @@
 
 - 🎮 [**Kitxel**](https://gamejolt.com/games/devezrokitxel/793379): My first videogame, with pixel art and developed in Unity 2D.
 - 📊 [**CI-CD-SONARQUBE-TEST**](https://github.com/DevEzro/CI-CD-SONARQUBE-TEST): A full explanation for use workflow with SonarQube integrated.
+- 📃 [**TALUS**](https://github.com/DevEzro/Talus): A wordlist generator (in progress but functional). More info inside.
+- 👮🏻‍♂️ [**DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot (in progress but functional). More info inside.
 ---
 
 # 📊 STATS
