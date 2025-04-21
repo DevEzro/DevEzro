@@ -66,14 +66,6 @@
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://github.com/DevEzro/DevEzro/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
----
-
 # 📺 TWITCH STREAMS (ES)
 
 Me paso por aquí a veces a jugar o trastear con código en directo:
