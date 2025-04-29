@@ -1,5 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&count_private=true&hide=prs)
-
 <!-- CABECERA: BANNER, VISITAS, TROFEOS -->
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
 
