@@ -16,7 +16,7 @@
 ---
 
 <!-- HABILIDADES -->
-# 🔧 SKILLS & TOOLSET
+# 🔧 SKILLS & TOOLSET / HABILIDADES Y HERRAMIENTAS
 
 | Development | DevOps & Monitoring | Game Dev | Cybersecurity |
 | --- | --- | --- | --- |
@@ -33,7 +33,7 @@
 
 ---
 
-# 💻 OPERATING SYSTEMS
+# 💻 OPERATING SYSTEMS / SISTEMAS OPERATIVOS
 
 - 🟦 Windows
 - 🐧 Linux / Android
@@ -41,7 +41,7 @@
 
 ---
 
-# 🎨 CREATIVE & OFFICE TOOLS
+# 🎨 CREATIVE & OFFICE TOOLS / OFIMÁTICA
 
 - **🎵 Audio**: FL Studio, Ableton, Garage Band  
 - **📹 Video**: Sony Vegas, Adobe After Effects, Clipchamp  
@@ -51,7 +51,7 @@
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS / PROYECTOS MÁS DESTACADOS
 
 - 🎮 [**KITXEL**](https://gamejolt.com/games/devezrokitxel/793379): My first videogame, with pixel art and developed in Unity 2D.
 - 📃 [**TALUS**](https://github.com/DevEzro/Talus): A wordlist generator.
@@ -60,7 +60,7 @@
 - 📊 [**CI-CD-SONARQUBE-TEST**](https://github.com/DevEzro/CI-CD-SONARQUBE-TEST): A full explanation for use workflow with SonarQube integrated.
 ---
 
-# 📊 STATS
+# 📊 STATS / ESADÍSITCAS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt" alt="stats" />
@@ -69,7 +69,7 @@
 
 ---
 
-# 📺 TWITCH STREAMS (ES)
+# 📺 TWITCH STREAMS (ES) / STREAMS EN TWITCH
 
 [![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
 
