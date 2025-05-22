@@ -57,7 +57,7 @@
 - 📃 [**TALUS**](https://github.com/DevEzro/Talus): A wordlist generator.
 - 👮🏻‍♂️ [**DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot (in progress but functional). More info inside.
 - ⌨️ [**LOGGX**](https://github.com/DevEzro/LoggX): Simple keylogger for tests (in progress).
-- 📊 [**CI-CD-SONARQUBE-TEST**](https://github.com/DevEzro/CI-CD-SONARQUBE-TEST): A full explanation for use workflow with SonarQube integrated.
+- 📊 [**ACTIONS-SONARQUBE-IMPLEMENTATION**](https://github.com/DevEzro/ACTIONS-SONARQUBE-IMPLEMENTATION): A full explanation for use workflow with SonarQube integrated.
 ---
 
 # 📊 STATS / ESADÍSITCAS
