@@ -54,10 +54,10 @@
 # 🚀 FEATURED PROJECTS / PROYECTOS MÁS DESTACADOS
 
 - 🎮 [**KITXEL**](https://gamejolt.com/games/devezrokitxel/793379): My first videogame, with pixel art and developed in Unity 2D.
-- 🛡️ [**TLOZ-API**](https://github.com/DevEzro/tloz-api): A The Legend Of Zelda® custom API to play with (FUNCTIONAL but STILL IN PROGRESS).
-- 📃 [**TALUS**](https://github.com/DevEzro/Talus): A wordlist generator (FUNCTIONAL and develop STOPED FOR NOW).
-- 👮🏻‍♂️ [**DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot (FUNCTIONAL but STILL IN PROGRESS). More info inside.
-- ⌨️ [**LOGGX**](https://github.com/DevEzro/LoggX): Simple keylogger for tests (IN PROGRESS).
+- 🛡️ [**(PRIVATE FOR NOW) TLOZ-API**](https://github.com/DevEzro/tloz-api): A The Legend Of Zelda® custom API to play with (FUNCTIONAL but STILL IN PROGRESS).
+- 📃 [**(PRIVATE FOR NOW) TALUS**](https://github.com/DevEzro/Talus): A wordlist generator (FUNCTIONAL and develop STOPED FOR NOW).
+- 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot (FUNCTIONAL but STILL IN PROGRESS). More info inside.
+- ⌨️ [**(PRIVATE FOR NOW) LOGGX**](https://github.com/DevEzro/LoggX): Simple keylogger for tests (IN PROGRESS).
 - 📊 [**ACTIONS-SONARQUBE-IMPLEMENTATION**](https://github.com/DevEzro/ACTIONS-SONARQUBE-IMPLEMENTATION): A full explanation for use workflow with SonarQube integrated.
 ---
 
