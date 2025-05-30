@@ -53,7 +53,7 @@
 
 # 🚀 FEATURED PROJECTS / PROYECTOS MÁS DESTACADOS
 
-- 🎮 [**KITXEL**](https://gamejolt.com/games/devezrokitxel/793379): My first videogame, with pixel art and developed in Unity 2D.
+- 🎮 [**KITXEL**](https://github.com/DevEzro/Kitxel): My first pixel art videogame developed in Unity 2D Also available FREE in [**Game Jolt**](https://gamejolt.com/games/devezrokitxel/793379).
 - 🛡️ [**(PRIVATE FOR NOW) TLOZ-API**](https://github.com/DevEzro/tloz-api): A The Legend Of Zelda® custom API to play with.
 - 📃 [**TALUS**](https://github.com/DevEzro/Talus): A wordlist generator.
 - 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot. More info inside.
