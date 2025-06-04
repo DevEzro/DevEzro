@@ -59,14 +59,17 @@
 - 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot. More info inside.
 - ⌨️ [**(PRIVATE FOR NOW) LOGGX**](https://github.com/DevEzro/LoggX): Simple keylogger for tests.
 - 📊 [**ACTIONS-SONARQUBE-IMPLEMENTATION**](https://github.com/DevEzro/ACTIONS-SONARQUBE-IMPLEMENTATION): A full explanation for use workflow with SonarQube integrated.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=cobalt" alt="langs" />
+</p>
 ---
 
 # 📊 STATS / ESADÍSITCAS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt" alt="stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEzro&theme=blueberry&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=cobalt" alt="langs" />
 </p>
 
 ---
