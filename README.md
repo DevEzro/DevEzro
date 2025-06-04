@@ -65,7 +65,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevEzro&show_icons=true&theme=cobalt" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=radical" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEzro&theme=blueberry&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=cobalt" alt="langs" />
 </p>
 
 ---
