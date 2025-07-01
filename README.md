@@ -54,7 +54,7 @@
 # 🚀 FEATURED PROJECTS / PROYECTOS MÁS DESTACADOS
 
 - 📊 [**ACTIONS-SONARQUBE-IMPLEMENTATION**](https://github.com/DevEzro/ACTIONS-SONARQUBE-IMPLEMENTATION): A full explanation for use workflow with SonarQube integrated.
-- 🎮 [**KITXEL**](https://github.com/DevEzro/Kitxel): My first pixel art videogame developed in Unity 2D Also available FREE in [**Game Jolt**](https://gamejolt.com/games/devezrokitxel/793379).
+- 😺 [**KITXEL**](https://github.com/DevEzro/Kitxel): My first pixel art videogame developed in Unity 2D. Also available FREE in [**Game Jolt**](https://gamejolt.com/games/devezrokitxel/793379).
 - 📃 [**TALUS**](https://github.com/DevEzro/Talus): A wordlist generator.
 - 🛡️ [**(PRIVATE FOR NOW) TLOZ-API**](https://github.com/DevEzro/tloz-api): A The Legend Of Zelda® custom API to play with.
 - 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot. More info inside.
