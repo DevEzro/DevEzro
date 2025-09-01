@@ -61,7 +61,7 @@
 - 😺 [**KITXEL**](https://gamejolt.com/games/devezrokitxel/793379): My first pixel art videogame developed in Unity 2D.
 - 📃 [**TALUS**](https://github.com/DevEzro/Talus): A custom wordlist generator.
 - 🛡️ [**(PRIVATE FOR NOW) TLOZ-API**](https://github.com/DevEzro/tloz-api): A The Legend Of Zelda® custom API to play with.
-- 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot. More info inside.
+- 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot.
 - ⌨️ [**(PRIVATE FOR NOW) LOGGX**](https://github.com/DevEzro/LoggX): Simple keylogger for tests.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEzro&layout=compact&count_private=true&theme=cobalt" alt="langs" />
