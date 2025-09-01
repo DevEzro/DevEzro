@@ -24,7 +24,7 @@
 
 | Development | DevOps & Monitoring | Game Dev | Cybersecurity |
 | --- | --- | --- | --- |
-| ![Dev](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python) | ![DevOps](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress) | ![Game](https://skillicons.dev/icons?i=c,unity,unreal,blender) | ![Cyber](https://skillicons.dev/icons?i=kali) |
+| ![Dev](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python,vercel) | ![DevOps](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress) | ![Game](https://skillicons.dev/icons?i=c,unity,unreal,blender) | ![Cyber](https://skillicons.dev/icons?i=kali) |
 
 ---
 
