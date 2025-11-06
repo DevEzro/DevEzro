@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="GitHub Isometric Commit Calendar" />
+  <img src="./assets/images/metrics.plugin.isocalendar.svg" alt="GitHub Isometric Commit Calendar" />
 </p>
 
 ---
@@ -31,6 +31,7 @@
 <!-- CERTIFICACIONES -->
 # 🔧 CERTIFICATIONS / CERTIFICACIONES
 [<img width="110" height="110" alt="I2CS__1_" src="https://github.com/user-attachments/assets/040ad77f-20a2-4191-a397-8d28c14ae4c2" />](https://www.credly.com/badges/7597b873-2f87-4fbf-aa9b-b4519e0fa032)
+[<img width="110" height="110" alt="I2CS__1_" src="assets/images/custom_badge.png" />](https://iaaplicada.usal.es/)
 
 ---
 
