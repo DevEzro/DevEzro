@@ -36,10 +36,10 @@
 
 # 🎓 EDUCATION / FORMACIÓN
 
-- 🌐 Técnico en Sistemas Microinformáticos y Redes (**SMR**)
-- 👨‍💻 Técnico en Desarrollo de Aplicaciones Multiplataforma (**DAM**)
-- 🎮 Especialista en Desarrollo de Videojuegos y Realidad Virtual (**DVRV**)
-- 🕵️‍♂️ Especialista en Ciberseguridad en Entornos de las TIC (**CETIC**)
+- 🌐 IT Technician (**GM SMR**)
+- 👨‍💻 Developer (**GS DAM**)
+- 🎮 Videogames & Virtual Reality (**ESP DVRV**)
+- 🕵️‍♂️ Cybersecurity (**ESP CETIC**)
 
 ---
 
