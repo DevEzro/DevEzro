@@ -40,6 +40,7 @@
 - 👨‍💻 Developer (**GS DAM**)
 - 🎮 Videogames & Virtual Reality (**ESP DVRV**)
 - 🕵️‍♂️ Cybersecurity (**ESP CETIC**)
+- 🌐 Network Administration (**GS ASIR**)
 
 ---
 
