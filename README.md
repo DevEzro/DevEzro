@@ -37,7 +37,7 @@
 
 # 🎓 EDUCATION / FORMACIÓN
 
-- 🌐 IT Technician (**GM SMR**)
+- 🖥️ IT Technician (**GM SMR**)
 - 👨‍💻 Developer (**GS DAM**)
 - 🎮 Videogames & Virtual Reality (**ESP DVRV**)
 - 🕵️‍♂️ Cybersecurity (**ESP CETIC**)
