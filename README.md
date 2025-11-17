@@ -2,7 +2,7 @@
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">
-  Producer & Dj 🎧 | Full-stack dev ⚙️ | Game Developer 🎮 | Cybersecurity Enthusiast 🕵️‍♂️
+    | Full-stack dev ⚙️ | Cybersecurity Enthusiast 🕵️‍♂️ | Game Developer 🎮 | Producer & Dj 🎧 | 
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 | Development | DevOps & Monitoring | Game Dev | Cybersecurity |
 | --- | --- | --- | --- |
-| ![Dev](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python,vercel) | ![DevOps](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress) | ![Game](https://skillicons.dev/icons?i=c,unity,unreal,blender) | ![Cyber](https://skillicons.dev/icons?i=kali) |
+| ![Dev](https://skillicons.dev/icons?i=java,js,html,css,c,dotnet,python,vercel) | ![DevOps](https://skillicons.dev/icons?i=docker,jenkins,grafana,prometheus,selenium,cypress) | ![Game](https://skillicons.dev/icons?i=c,unity,unreal,blender) | ![Cyber](https://skillicons.dev/icons?i=kali,autopsy) |
 
 ---
 
