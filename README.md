@@ -87,9 +87,9 @@
 
 ---
 
-# 📺 TWITCH STREAMS (ES) / STREAMS EN TWITCH
+# 🎵 NOTORIOUS TRACK / TEMA DESTACADO
 
-[![DaveEzro](https://static-cdn.jtvnw.net/jtv_user_pictures/428caacc-75a2-4c27-95c6-8dcacf93922e-profile_image-70x70.png 'DaveEzro')](https://twitch.com/daveezro)
+[![Listen to 'Psychophony'](https://open.spotify.com/intl-es/album/0dInbnWdBIUVnH9Dmswcdz?si=be00a07c677d4df7)
 
 ---
 
