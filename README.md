@@ -2,7 +2,7 @@
 [![DevEzro](https://svg-banners.vercel.app/api?type=glitch&text1=DEVEZRO&width=1200&height=100)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">
-    | Full-stack dev ⚙️ | Cybersecurity Enthusiast 🕵️‍♂️ | Game Developer 🎮 | Producer & Dj 🎧 | 
+    | Full-stack dev ⚙️ | Cybersecurity Enthusiast 🕵️‍♂️ | Game Developer 🎮 | Bass Producer & Dj 🎧 | 
 </p>
 
 <p align="center">
