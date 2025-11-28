@@ -89,7 +89,7 @@
 
 # 🎵 NOTORIOUS TRACK / TEMA DESTACADO
 
-[![Listen to 'Psychophony'](https://open.spotify.com/intl-es/album/0dInbnWdBIUVnH9Dmswcdz?si=be00a07c677d4df7)
+![Listen to 'Psychophony'](https://open.spotify.com/intl-es/album/0dInbnWdBIUVnH9Dmswcdz?si=be00a07c677d4df7)
 
 ---
 
