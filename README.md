@@ -88,7 +88,7 @@
 
 ---
 
-# 🎵 NOTED TRACKS AS MUSIC PRODUCER / TEMAS DESTACADOS COMO PRODUCTOR MUSICAL
+# 🎵 NOTED TRACKS / TEMAS DESTACADOS
 
 <p>
   <a href="https://open.spotify.com/intl-es/album/0dInbnWdBIUVnH9Dmswcdz?si=be00a07c677d4df7">
