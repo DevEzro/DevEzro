@@ -68,7 +68,6 @@
 - 📊 [**ACTIONS-SONARQUBE-IMPLEMENTATION**](https://github.com/DevEzro/ACTIONS-SONARQUBE-IMPLEMENTATION): A full explanation about the integration of SonarQube with GitHub Actions.
 - 😺 [**KITXEL**](https://gamejolt.com/games/devezrokitxel/793379): My first pixel art videogame developed in Unity 2D.
 - 📃 [**TALUS**](https://github.com/DevEzro/Talus): A custom wordlist generator.
-- 🌷 [**SARA AYALA PSICOLOGÍA**](https://saraayalapsicologia.com): Psychologist atention service by Sara Ayala.
 - 🛡️ [**(PRIVATE FOR NOW) TLOZ-API**](https://github.com/DevEzro/tloz-api): A The Legend Of Zelda® custom API to play with.
 - 👮🏻‍♂️ [**(PRIVATE FOR NOW) DITTOPOT**](https://github.com/DevEzro/DittoPot): Minimal honeypot.
 - ⌨️ [**(PRIVATE FOR NOW) LOGGX**](https://github.com/DevEzro/LoggX): Simple keylogger for tests.
